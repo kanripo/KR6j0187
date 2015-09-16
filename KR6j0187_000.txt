@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說迴向輪經
+#+DATE: 2015-08-30 20:27:33.642634
+#+PROPERTY: JUAN 0
